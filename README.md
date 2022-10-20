@@ -8,5 +8,8 @@ Our work is similar to [Andrade (2021)](https://library.seg.org/doi/abs/10.1190/
 
 The main procedure to solve this problem is listed as follows:
 1. Data preparation: 
+
 features (the 5 industrial records mentioned above), label (calculated distance from the well).
+2. Data preprocessing:
+
 3. 
