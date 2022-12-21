@@ -5,7 +5,6 @@ Microseismicity events happen during the process of hydraulic fracturing and are
 Dataset includes the microseismicity data (3D coordinates (*x*, *y*, *z*), time, magnitude, calculated distance from the well) and the 5 industrial records (surface pressure, injection rate, proppant concentration, toal concentration volume, toal injection fluid volume). These data comes from 3 neigbouring horizontal wells and each well has about 20+ stages. Each stage can be approximately treated as an individual fracturing process.
 
 We want to use the **recorded industrial parameters** to predict the **triggering front** (i.e. the farthest distance of the microseisimity at time *t*).
-Our work is similar to [Andrade (2021)](https://library.seg.org/doi/abs/10.1190/geo2021-0094.1). The difference is we want to apply LSTM to predict this time-series problem.
 
 ## Methods
 The main procedure to solve this problem is listed as follows:
