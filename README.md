@@ -27,7 +27,3 @@ We want to use the past 10 min industrial parameters to predict the last 1 min  
 The performance is not good:
 ![image](https://user-images.githubusercontent.com/92789969/196880377-bf9c4ae4-89f3-4380-b2c1-da426ce73c08.png)
 
-## Problems
-- How to get a more comprehensive **label** which can reflect as much useful information as possible of these scattered microseismic events?
-- How to get more useful features to constrain the geological conditions? I think the 5 industrial parameters are far less enough.
-- How to put *continuous* industrial parameters and *discrete* microseismic events in a commom time basis?
