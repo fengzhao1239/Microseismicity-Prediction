@@ -31,5 +31,5 @@ The performance is not good:
 This work has been submitted to the International Society of Rock Mechanics Congress (2023), see below:
 
 
-[(Feng, Z., Zhang, F., Shen, X., Yan, B., & Chen, Z. (2023, October). A Data-Driven Model for the Prediction of Stimulated Reservoir Volume (SRV) Evolution During Hydraulic Fracturing. In ISRM Congress (pp. ISRM-15CONGRESS). ISRM.)](https://onepetro.org/isrmcongress/proceedings/CONGRESS23/All-CONGRESS23/ISRM-15CONGRESS-2023-361/540138)
+[Feng, Z., Zhang, F., Shen, X., Yan, B., & Chen, Z. (2023, October). A Data-Driven Model for the Prediction of Stimulated Reservoir Volume (SRV) Evolution During Hydraulic Fracturing. In ISRM Congress (pp. ISRM-15CONGRESS). ISRM.](https://onepetro.org/isrmcongress/proceedings/CONGRESS23/All-CONGRESS23/ISRM-15CONGRESS-2023-361/540138)
 
