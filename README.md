@@ -27,3 +27,7 @@ We want to use the past 10 min industrial parameters to predict the last 1 min  
 The performance is not good:
 ![image](https://user-images.githubusercontent.com/92789969/196880377-bf9c4ae4-89f3-4380-b2c1-da426ce73c08.png)
 
+## Cite
+This work has been submitted to the International Society of Rock Mechanics Congress (2023), see below:
+Feng, Z., Zhang, F., Shen, X., Yan, B., & Chen, Z. (2023, October). A Data-Driven Model for the Prediction of Stimulated Reservoir Volume (SRV) Evolution During Hydraulic Fracturing. In ISRM Congress (pp. ISRM-15CONGRESS). ISRM.
+
